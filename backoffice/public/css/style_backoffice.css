@@ -1,0 +1,16 @@
+/* Imagens das Tabelas */
+table img {width: 200px;}
+
+/* Dimensões das Tabelas */
+table th, td {
+  border: 2px solid black;  
+  border-collapse: collapse;
+}
+
+th, td {padding: 20px;}
+
+/* Imagens da Tabela do Carrousel */
+table .carousel-img {width: 700px;}
+
+/* Tamanho dos Inputs da secção de Contactos */
+.contactos-backoffice input{width: 450px;}
